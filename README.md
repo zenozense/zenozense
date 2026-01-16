@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @zenozense. <br>
-- 👀 Intersting in Automation, Software Developer, Cloud Engineer. <br>
+- 👋 Hi, I’m Zen <br>
+- 👀 Intersting in Cloud Network Engineer, Networking, and Infrastructure Design. <br>
 - 📫 Reach me at zenkittiphon@gmail.com.
